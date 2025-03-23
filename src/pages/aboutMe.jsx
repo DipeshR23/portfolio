@@ -19,7 +19,7 @@ function About() {
  
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold text-rose-400 mb-4">
-          About Me``
+          About Me
         </h1>
         <h3 className="text-lg text-rose-300 mb-4">
           I'm <span className="text-green-500">{roles[roleIndex]}</span>
